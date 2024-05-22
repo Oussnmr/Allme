@@ -1,0 +1,94 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1Plus1.ua" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/CHASSEEPECHE.png" group-title="Docu",|FR| CHASSE & PÊCHE FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/138924.ts
+#EXTINF:-1 tvg-id="AL AOULA" tvg-logo="http://127.0.0.1:51513/724b65b333da47b1ffb829d25bae694a" group-title="Arabe",┃MA┃  AL AOULA INTER HD
+http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/368698.ts
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/CARTTONNETWORK.png" group-title="Anime",Cartoon Network
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26287.ts
+#EXTINF:-1 tvg-id="NETFLIX" tvg-logo="http://51.158.54.196/1.png" group-title="Doc",|NETFLIX| DOC
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/35653.ts
+#EXTINF:-1 tvg-id="|FR| ARTE FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/ARTE.png" group-title="Doc",|FR| ARTE FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26381.ts
+#EXTINF:-1 tvg-id="|FR| AUTOMOTO LA CHAINE HD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/AUTOMOTO.png" group-title="Doc",|FR| AUTOMOTO LA CHAINE HD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26249.ts
+#EXTINF:-1 tvg-id="|FR| BOING FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/BOING.png" group-title="Anime",||FR| BOING FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26259.ts
+#EXTINF:-1 tvg-id="|FR| BOOMERANG FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/BOOMERANG.png" group-title="Anime",|FR| BOOMERANG FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26277.ts
+#EXTINF:-1 tvg-id="|FR| C8 FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/C8.png" group-title="Général",|FR| C8 FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26376.ts
+#EXTINF:-1 tvg-id="|FR| CANAL J FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/CANALJ.png" group-title="Anime",|FR| CANAL J FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26269.ts
+#EXTINF:-1 tvg-id="|FR| CANAL+ DOCS FHD" tvg-logo="" group-title="Doc",|FR| CANAL+ DOCS FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/327545.ts
+#EXTINF:-1 tvg-id="|FR| CANAL+ FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/CANAL.png" group-title="Général",|FR| CANAL+ FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/327308.ts
+#EXTINF:-1 tvg-id="|FR| CANAL+ KIDS FHD" tvg-logo="https://pic.tvtrips.xyz/canal/CANALKIDSFHD1.png" group-title="Anime",|FR| CANAL+ KIDS FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26369.ts
+#EXTINF:-1 tvg-id="|FR| CINE+ FAMIZ FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/CINEFAMIZ.png" group-title="Docu",|FR| CINE+ FAMIZ FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26363.ts
+#EXTINF:-1 tvg-id="|FR| COMEDY CENTRAL FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/COMEDYCENTRAL.png" group-title="Général",|FR| COMEDY CENTRAL FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/138920.ts
+#EXTINF:-1 tvg-id="|FR| DISCOVERY CHANNEL FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/DISCOVERYCHANNEL.png" group-title="Doc",|FR| DISCOVERY CHANNEL FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26344.ts
+#EXTINF:-1 tvg-id="|FR| DISCOVERY SCIENCE FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/DISCOVERYSCIENCE.png" group-title="Doc",|FR| DISCOVERY SCIENCE FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26341.ts
+#EXTINF:-1 tvg-id="|FR| DISNEY CHANNEL FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/DISNEYCHANNELFHD.png" group-title="Anime",|FR| DISNEY CHANNEL FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26283.ts
+#EXTINF:-1 tvg-id="|FR| FRANCE 2 FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/FRANCE2.png" group-title="Doc",|FR| FRANCE 2 FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26386.ts
+#EXTINF:-1 tvg-id="|FR| FRANCE 3 FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/FRANCE3.pn" group-title="Général",|FR| FRANCE 3 FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26385.ts
+#EXTINF:-1 tvg-id="|FR| FRANCE 4 FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/FRANCE4.png" group-title="Général",|FR| FRANCE 4 FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26384.ts
+#EXTINF:-1 tvg-id="|FR| FRANCE 5 FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/FRANCE5.png" group-title="Général",|FR| FRANCE 5 FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26383.ts
+#EXTINF:-1 tvg-id="|FR| GAME ONE FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/GAMEONE.png" group-title="Anime",|FR| GAME ONE FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26307.ts
+#EXTINF:-1 tvg-id="|FR| GULLI FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/GULLI.png" group-title="Anime",|FR| GULLI FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26268.ts
+#EXTINF:-1 tvg-id="|FR| LCI FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/LCI.png" group-title="News",|FR| LCI FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26293.ts
+#EXTINF:-1 tvg-id="|FR| M6 FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/M6.png" group-title="Général",|FR| M6 FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/327072.ts
+#EXTINF:-1 tvg-id="|FR| MANGAS FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/MANGAS.png" group-title="Anime",|FR| MANGAS FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26276.ts
+#EXTINF:-1 tvg-id="|FR| NATGEO FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/NATGEO.png" group-title="Doc",|FR| NATGEO FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26338.ts
+#EXTINF:-1 tvg-id="|FR| NRJ 12 FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/NRJ12.png" group-title="Général",|FR| NRJ 12 FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26243.ts
+#EXTINF:-1 tvg-id="|FR| PLANETE FHD" tvg-logo="http://pic.tvtrips.xyz/NEW-FR-FHD/PLANET.png" group-title="Doc",|FR| PLANETE FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26335.ts
+#EXTINF:-1 tvg-id="|FR| RMC DECOUVERTE FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/RMCDECOUVERTE.png" group-title="Doc",|FR| RMC DECOUVERTE FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26327.ts
+#EXTINF:-1 tvg-id="|FR| RMC STORY FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/RMCSTORY.png" group-title="Doc",|FR| RMC STORY FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26325.ts
+#EXTINF:-1 tvg-id="|FR| SCIENCES VIE FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/SCIENCESETVIE.png" group-title="Doc",|FR| SCIENCES VIE FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26330.ts
+#EXTINF:-1 tvg-id="|FR| SEASONS FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/SEASONS.png" group-title="Doc",|FR| SEASONS FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26334.ts
+#EXTINF:-1 tvg-id="|FR| TF1 FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/TF1.png" group-title="Général",|FR| TF1 FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/327070.ts
+#EXTINF:-1 tvg-id="|FR| TFX FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/TFX.png" group-title="Général",|FR| TFX FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26271.ts
+#EXTINF:-1 tvg-id="|FR| TMC FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/TMC.png" group-title="Général",|FR| TMC FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26374.ts
+#EXTINF:-1 tvg-id="|FR| TREK TV FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/TREKTV.png" group-title="Doc",|FR| TREK TV FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26273.ts
+#EXTINF:-1 tvg-id="|FR| USHUAIA TV FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/USHUAIA.png" group-title="Doc",|FR| USHUAIA TV FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26333.ts
+#EXTINF:-1 tvg-id="|FR| W9 FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/W9.png" group-title="Général",|FR| W9 FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26375.ts
+#EXTINF:-1 tvg-id="BE|CLUB RTL FHD" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-BELGIUM/CLUBRTL.png" group-title="Général",BE|CLUB RTL FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/274258.ts
+#EXTINF:-1 tvg-id="BE|LA TROIS FHD" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-BELGIUM/LATROIS.png" group-title="Général",BE|LA TROIS FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/274256.ts
+#EXTINF:-1 tvg-id="BE|LA UNE FHD" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-BELGIUM/LAUNE.png" group-title="Général",BE|LA UNE FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/274252.ts
+#EXTINF:-1 tvg-id="BE|PLUG RTL FHD" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-BELGIUM/PLUGRTL_2.png" group-title="Général",BE|PLUG RTL FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/274261.ts
+#EXTINF:-1 tvg-id="BE|RTL TVI FHD" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-BELGIUM/RTLTVI.png" group-title="Général",BE|RTL TVI FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/274266.ts
+#EXTINF:-1 tvg-id="┃FR┃ NAT GEO WILD 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/NGCWILD.png" group-title="Doc",┃FR┃ NAT GEO WILD 8K
+http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/779444.ts
+
