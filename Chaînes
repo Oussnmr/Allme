@@ -117,15 +117,30 @@ http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/368670.ts
 http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/368706.ts
 #EXTINF:-1 tvg-id="┃MA┃ ARRYADIA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/MOROCCO/arryadia.png" group-title="Arabe",┃MA┃ ARRYADIA HD
 http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/368694.ts
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="┃AR┃ AL JAZEERA 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/MOROCCO/arryadia.png" group-title="Arabe",┃AR┃ AL JAZEERA 4K
+http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/369177.ts
+#EXTINF:-1 tvg-id="┃AR┃ AL JAZEERA ENGLISH 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NEWS/Al-Jazeera.png" group-title="Arabe",┃AR┃ AL JAZEERA ENGLISH 4K
+http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/369173.ts
+#EXTINF:-1 tvg-id="┃AR┃ AL JAZEERA MUBASHER HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NEWS/aljazeeramubasher.png" group-title="Arabe",┃AR┃ AL JAZEERA MUBASHER HD
+http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/369175.ts
+#EXTINF:-1 tvg-id="┃AR┃ BBC WORLD NEWS ARABIC" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NEWS/bbcnewsarabic.png" group-title="Arabe",┃AR┃ BBC WORLD NEWS ARABIC
+http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/369153.ts
+#EXTINF:-1 tvg-id="┃AR┃ INEWS TV ARABIC 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NEWS/INews_TV_logo.svg.png" group-title="Arabe",┃AR┃ INEWS TV ARABIC 4K
+http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/369161.ts
+#EXTINF:-1 tvg-id="┃FR┃ CANAL+ DOCS 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUSDOCS.png" group-title="Docu",┃FR┃ CANAL+ DOCS 8K
+http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/779439.ts
+#EXTINF:-1 tvg-id="┃FR┃ ANIMAUX 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/ANIMAUX.png" group-title="Docu",┃FR┃ ANIMAUX 8K
+http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/779456.ts
+#EXTINF:-1 tvg-id="┃FR┃ PLANETE+ AVENTURE 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/PLANETEPLUSAE.png" group-title="Docu",┃FR┃ PLANETE+ AVENTURE 8K
+http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/779441.ts
+#EXTINF:-1 tvg-id="┃FR┃ DREAMWORKS 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/DreamWorks_Channel_Logo.svg.png" group-title="Anime",┃FR┃ DREAMWORKS 4K
+http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/775699.ts
+#EXTINF:-1 tvg-id="┃FR┃ EURONEWS 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/EURONEWS.png" group-title="News",┃FR┃ EURONEWS 4K
+http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/775846.ts
+#EXTINF:-1 tvg-id="┃FR┃ CGTN FRANÇAIS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CGTNFRANCAIS.png" group-title="Général",┃FR┃ CGTN FRANÇAIS HD
+http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/773454.ts
+#EXTINF:-1 tvg-id="┃FR┃ NAT GEO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/NGC.png" group-title="Docu",┃FR┃ NAT GEO HD
+http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/773381.ts
 
 
 
