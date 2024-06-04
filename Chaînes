@@ -4,18 +4,14 @@
 http://ott-protv.com:8080/live/4663893855151056/4663893855151056/138924.ts
 #EXTINF:-1 tvg-id="┃FR┃ NAT GEO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/NGC.png" group-title="Docu",┃FR┃ NAT GEO HD
 http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/773381.ts
-#EXTINF:-1 tvg-id="|FR| NATGEO FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/NATGEO.png" group-title="Docu",|FR| NATGEO FHD
-http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26338.ts
 #EXTINF:-1 tvg-id="┃FR┃ NAT GEO WILD 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/NGCWILD.png" group-title="Docu",┃FR┃ NAT GEO WILD 8K
 http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/779444.ts
 #EXTINF:-1 tvg-id="┃FR┃ ANIMAUX 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/ANIMAUX.png" group-title="Docu",┃FR┃ ANIMAUX 8K
 http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/779456.ts
 
-#EXTINF:-1 tvg-id="NETFLIX" tvg-logo="http://51.158.54.196/1.png" group-title="Docu",|NETFLIX| DOC
-http://ott-protv.com:8080/live/4663893855151056/4663893855151056/35653.ts
-#EXTINF:-1 tvg-id="┃FR┃ CANAL+ DOCS 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUSDOCS.png" group-title="Docu",┃FR┃ CANAL+ DOCS 8K
-http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/779439.ts
-#EXTINF:-1 tvg-id="|FR| CANAL+ DOCS FHD" tvg-logo="" group-title="Docu",|FR| CANAL+ DOCS FHD
+
+
+#EXTINF:-1 tvg-id="|FR| CANAL+ DOCS FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUSDOCS.png" group-title="Docu",|FR| CANAL+ DOCS FHD
 http://ott-protv.com:8080/live/4663893855151056/4663893855151056/327545.ts
 #EXTINF:-1 tvg-id="|FR| AUTOMOTO LA CHAINE HD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/AUTOMOTO.png" group-title="Docu",|FR| AUTOMOTO LA CHAINE HD
 http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26249.ts
@@ -42,14 +38,11 @@ http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26333.ts
 http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26334.ts
 #EXTINF:-1 tvg-id="|FR| SCIENCES VIE FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/SCIENCESETVIE.png" group-title="Docu",|FR| SCIENCES VIE FHD
 http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26330.ts
-#EXTINF:-1 tvg-id="┃FR┃ NAUTICAL CHANNEL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nautical_Channel_29.png" group-title="Docu",┃FR┃ NAUTICAL CHANNEL HD
-http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/773397.ts
 #EXTINF:-1 tvg-id="|FR| FRANCE 2 FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/FRANCE2.png" group-title="Docu",|FR| FRANCE 2 FHD
 
 
-
 http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26386.ts
-#EXTINF:-1 tvg-id="|FR| FRANCE 3 FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/FRANCE3.pn" group-title="Général",|FR| FRANCE 3 FHD
+#EXTINF:-1 tvg-id="|FR| FRANCE 3 FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/FRANCE3.png" group-title="Général",|FR| FRANCE 3 FHD
 http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26385.ts
 #EXTINF:-1 tvg-id="|FR| FRANCE 4 FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/FRANCE4.png" group-title="Général",|FR| FRANCE 4 FHD
 http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26384.ts
@@ -75,7 +68,7 @@ http://ott-protv.com:8080/live/4663893855151056/4663893855151056/327308.ts
 http://ott-protv.com:8080/live/4663893855151056/4663893855151056/138920.ts
 #EXTINF:-1 tvg-id="BE|LA UNE FHD" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-BELGIUM/LAUNE.png" group-title="Général",BE|LA UNE FHD
 http://ott-protv.com:8080/live/4663893855151056/4663893855151056/274252.ts
-#EXTINF:-1 tvg-id="BE|LA DEUX FHD" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-BELGIUM/TIPIKpitcon.png" group-title="Général",BE|LA DEUX FHD
+#EXTINF:-1 tvg-id="BE|LA DEUX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/RTBF_La_Deux_logo.svg" group-title="Général",BE|LA DEUX FHD
 http://ott-protv.com:8080/live/4663893855151056/4663893855151056/274254.ts
 #EXTINF:-1 tvg-id="BE|LA TROIS FHD" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-BELGIUM/LATROIS.png" group-title="Général",BE|LA TROIS FHD
 http://ott-protv.com:8080/live/4663893855151056/4663893855151056/274256.ts
@@ -119,8 +112,6 @@ http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26363.ts
 
 #EXTINF:-1 tvg-id="┃MA┃  2M MAROC HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/MOROCCO/2m-tvmorocco.png" group-title="Arabe",┃MA┃  2M MAROC HD
 http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/368696.ts
-#EXTINF:-1 tvg-id="AL AOULA" tvg-logo="http://127.0.0.1:51513/724b65b333da47b1ffb829d25bae694a" group-title="Arabe",┃MA┃  AL AOULA INTER HD
-http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/368698.ts
 #EXTINF:-1 tvg-id="┃MA┃  AFLAM 7 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/MOROCCO/Logo_aflam_tv.png" group-title="Arabe",┃MA┃  AFLAM 7 HD
 http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/368690.ts
 #EXTINF:-1 tvg-id="┃MA┃  AL AOULA INTER HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/MOROCCO/ALAOULA.png" group-title="Arabe",┃MA┃  AL AOULA INTER HD
@@ -150,7 +141,7 @@ http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/369177.ts
 #EXTINF:-1 tvg-id="┃AR┃ AL JAZEERA ENGLISH 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NEWS/Al-Jazeera.png" group-title="Arabe",┃AR┃ AL JAZEERA ENGLISH 4K
 http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/369173.ts
 #EXTINF:-1 tvg-id="┃AR┃ AL JAZEERA MUBASHER HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NEWS/aljazeeramubasher.png" group-title="Arabe",┃AR┃ AL JAZEERA MUBASHER HD
-#EXTINF:-1 tvg-id="AR| Al Jazeera Documentary HD" tvg-logo="http://pic.roll-tv.com/arabic/al_jazeera_documentary.png" group-title="Arabe",AR| Al Jazeera Documentary HD
+#EXTINF:-1 tvg-id="AR| Al Jazeera Documentary HD" tvg-logo="https://i.ibb.co/MGW5Vv9/aljaz.png" group-title="Arabe",AR| Al Jazeera Documentary HD
 http://ott-protv.com:8080/live/4663893855151056/4663893855151056/285026.ts
 http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/369175.ts
 #EXTINF:-1 tvg-id="┃AR┃ BBC WORLD NEWS ARABIC" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NEWS/bbcnewsarabic.png" group-title="Arabe",┃AR┃ BBC WORLD NEWS ARABIC
