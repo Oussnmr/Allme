@@ -68,7 +68,7 @@ http://ott-protv.com:8080/live/4663893855151056/4663893855151056/327308.ts
 http://ott-protv.com:8080/live/4663893855151056/4663893855151056/138920.ts
 #EXTINF:-1 tvg-id="BE|LA UNE FHD" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-BELGIUM/LAUNE.png" group-title="Général",BE|LA UNE FHD
 http://ott-protv.com:8080/live/4663893855151056/4663893855151056/274252.ts
-#EXTINF:-1 tvg-id="BE|LA DEUX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/RTBF_La_Deux_logo.svg" group-title="Général",BE|LA DEUX FHD
+#EXTINF:-1 tvg-id="BE|LA DEUX FHD" tvg-logo="https://w1.pngwing.com/pngs/762/179/png-transparent-tv-la-deux-logo-rtbf-television-lyngsat-live-television-recording-studio.png" group-title="Général",BE|LA DEUX FHD
 http://ott-protv.com:8080/live/4663893855151056/4663893855151056/274254.ts
 #EXTINF:-1 tvg-id="BE|LA TROIS FHD" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-BELGIUM/LATROIS.png" group-title="Général",BE|LA TROIS FHD
 http://ott-protv.com:8080/live/4663893855151056/4663893855151056/274256.ts
