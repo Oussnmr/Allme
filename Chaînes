@@ -169,11 +169,13 @@ http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/660220.ts
 http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/660200.ts
 #EXTINF:-1 tvg-id="┃AR┃ SAUDI QURAN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ISLAMIC/saudiquran.png" group-title="Islam",┃AR┃ SAUDI QURAN HD
 http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/660222.ts
-#EXTINF:-1 tvg-id="┃AR┃ AL AFASY QURAN" tvg-logo="http://127.0.0.1:62933/quran,-kareem,-tv,-bahrain,-radio,-fm,-am" group-title="Islam",┃AR┃ AL AFASY QURAN
+#EXTINF:-1 tvg-id="┃AR┃ AL AFASY QURAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/%D0%9C%D0%B8%D1%88%D0%B0%D1%80%D0%B8_%D0%A0%D0%B0%D1%88%D0%B8%D0%B4.jpg" group-title="Islam",┃AR┃ AL AFASY QURAN
 http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/672257.ts
-#EXTINF:-1 tvg-id="┃AR┃ AL MUAQLY QURAN" tvg-logo="http://127.0.0.1:62933/quran,-kareem,-tv,-bahrain,-radio,-fm,-am" group-title="Islam",┃AR┃ AL MUAQLY QURAN
+#EXTINF:-1 tvg-id="┃AR┃ AL MUAQLY QURAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Maher_Al_Mueaqly.png/260px-Maher_Al_Mueaqly.png" group-title="Islam",┃AR┃ AL MUAQLY QURAN
 http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/686158.ts
-#EXTINF:-1 tvg-id="┃AR┃ AL-SUDAIS QURAN" tvg-logo="https://scontent.fbru1-1.fna.fbcdn.net/v/t1.6435-9/94983495_157123425769428_8598294058646896640_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=8uAhEjRsDigQ7kNvgGjAQmA&_nc_ht=scontent.fbru1-1.fna&oh=00_AYAWuBdWy4MShxO2L4RlshcaYvs3y9NcK2DNtnopfEx6UQ&oe=66884C4F" group-title="Islam",┃AR┃ AL-SUDAIS QURAN
+#EXTINF:-1 tvg-id="┃AR┃ SAOUD SHURAIM QURAN" tvg-logo="https://i1.sndcdn.com/artworks-PmwNu5RYOheAFIec-2sq9DQ-t500x500.jpg" group-title="Islam",┃AR┃ SAOUD SHURAIM QURAN
+http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/686153.ts
+#EXTINF:-1 tvg-id="┃AR┃ AL-SUDAIS QURAN" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple/v4/e9/1b/b2/e91bb218-3a25-9291-cc64-a4645d85b73a/source/512x512bb.jpg" group-title="Islam",┃AR┃ AL-SUDAIS QURAN
 http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/686159.ts
 #EXTINF:-1 tvg-id="┃AR┃ MAKKAH TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ISLAMIC/Makkah_logo.png" group-title="Islam",┃AR┃ MAKKAH TV
 http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/660198.ts
