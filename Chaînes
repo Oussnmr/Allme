@@ -173,7 +173,7 @@ http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/660222.ts
 http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/672257.ts
 #EXTINF:-1 tvg-id="┃AR┃ AL MUAQLY QURAN" tvg-logo="http://127.0.0.1:62933/quran,-kareem,-tv,-bahrain,-radio,-fm,-am" group-title="Islam",┃AR┃ AL MUAQLY QURAN
 http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/686158.ts
-#EXTINF:-1 tvg-id="┃AR┃ AL-SUDAIS QURAN" tvg-logo="http://127.0.0.1:62933/quran,-kareem,-tv,-bahrain,-radio,-fm,-am" group-title="Islam",┃AR┃ AL-SUDAIS QURAN
+#EXTINF:-1 tvg-id="┃AR┃ AL-SUDAIS QURAN" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple/v4/e9/1b/b2/e91bb218-3a25-9291-cc64-a4645d85b73a/source/512x512bb.jpg" group-title="Islam",┃AR┃ AL-SUDAIS QURAN
 http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/686159.ts
 #EXTINF:-1 tvg-id="┃AR┃ MAKKAH TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ISLAMIC/Makkah_logo.png" group-title="Islam",┃AR┃ MAKKAH TV
 http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/660198.ts
