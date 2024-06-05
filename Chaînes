@@ -103,6 +103,8 @@ http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26277.ts
 http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26269.ts
 #EXTINF:-1 tvg-id="|FR| CANAL+ KIDS FHD" tvg-logo="https://pic.tvtrips.xyz/canal/CANALKIDSFHD1.png" group-title="Anime",|FR| CANAL+ KIDS FHD
 http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26369.ts
+#EXTINF:-1 tvg-id="|FR| NICKELODEON 1 FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/NICK.png" group-title="Anime",|FR| NICKELODEON 1 FHD
+http://ott-protv.com:8080/live/4663893855151056/4663893855151056/138925.ts
 #EXTINF:-1 tvg-id="|FR| DISNEY CHANNEL FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/DISNEYCHANNELFHD.png" group-title="Anime",|FR| DISNEY CHANNEL FHD
 http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26283.ts
 #EXTINF:-1 tvg-id="|FR| GAME ONE FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/GAMEONE.png" group-title="Anime",|FR| GAME ONE FHD
