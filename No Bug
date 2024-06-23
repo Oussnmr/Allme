@@ -36,8 +36,6 @@ https://edge14.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
 
 #EXTINF:-1 tvg-id="|FR| BFM TV" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/BFMTV.png" group-title="News",|FR| BFM TV
 https://d133u1kwyeqhav.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cfh0ys5588w7f/index.m3u8
-#EXTINF:-1 tvg-id="|FR| CNEWS" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/CNEWS.png" group-title="News",|FR| CNEWS
-https://hls-m010-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
 #EXTINF:-1 tvg-id="|FR| LE MÉDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/Logo_Le_M%C3%A9dia.png/195px-Logo_Le_M%C3%A9dia.png" group-title="News",|FR| LE MÉDIA TV
 https://livestream.zazerconer.workers.dev/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
 #EXTINF:-1 tvg-id="|FR| EURONEWS" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/EURONEWS.png" group-title="News",|FR| EURONEWS
@@ -48,14 +46,10 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 https://new.cache-stream.workers.dev/channel/UCCCPCZNChQdGa9EkATeye4g/live.m3u8
 #EXTINF:-1 tvg-id="|FR| LCP" tvg-logo="https://cms-assets.tutsplus.com/uploads/users/30/posts/107183/preview_image/lcp.png" group-title="News",|FR| LCP
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/LCP.m3u8
-#EXTINF:-1 tvg-id="|FR| PUBLIC-SÉNAT" tvg-logo="https://www.drupal.org/files/publicsenat.jpg" group-title="News",|FR| PUBLIC-SÉNAT
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat.m3u8
 #EXTINF:-1 tvg-id="|FR| 20 MINUTES " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/20_Minutes_logo.svg/langfr-240px-20_Minutes_logo.svg.png" group-title="News",|FR| 20 MINUTES 
 https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
 #EXTINF:-1 tvg-id="|FR| LE FIGARO IDF " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Le_Figaro_TV_IDF_%282023%29.png/375px-Le_Figaro_TV_IDF_%282023%29.png" group-title="News",|FR| LE FIGARO IDF
 https://static.lefigaro.fr/secom/tnt.m3u8
-#EXTINF:-1 tvg-id="|FR| BEL RTL" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-BELGIUM/Bel_RTL_logo_2018.png" group-title="News",|FR| BEL RTL
-https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
 #EXTINF:-1 tvg-id="|FR| RMC TALK INFO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_RMC_2002.svg/langfr-255px-Logo_RMC_2002.svg.png" group-title="News",|FR| RMC TALK INFO
 https://dvvyqyxwlc4tn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n5yqxqrvnujl7/index.m3u8
 
