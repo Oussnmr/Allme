@@ -76,6 +76,22 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/p
 https://d387lnkgycbwl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sdi2aweg8u1y4/761cde02-1df4-4a1a-ad50-7033ede188ef/2.m3u8
 #EXTINF:-1 tvg-id="|FR| TRAVEL XP" tvg-logo="https://media.info/l/o/7/7146.1525122979.png" group-title="Général",|FR| TRAVEL XP
 https://0b0a5371d15f48128cf69b029230eac6.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_TravelXP/playlist.m3u8
+#EXTINF:-1 tvg-id="|BE| BOUKÈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Logo_Bouk%C3%A8.svg/langfr-225px-Logo_Bouk%C3%A8.svg.png" group-title="Général",|BE| BOUKÈ
+https://tvlocales-live.freecaster.com/95d2f70d-9229-478b-9aed-bc4fa220316d/95d2f70d-9229-478b-9aed-bc4fa220316d.isml/master.m3u8
+#EXTINF:-1 tvg-id="|BE| TÉLÉ MB" tvg-logo="https://www.mediasdeproximite.be/wp-content/uploads/2021/11/Logo-Tele-MB-300x93.jpg" group-title="Général",|BE| TÉLÉ MB
+https://tvlocales-live.freecaster.com/95d2f6c9-e85f-4388-8e9c-596260a4206f/95d2f6c9-e85f-4388-8e9c-596260a4206f.isml/master.m3u8
+#EXTINF:-1 tvg-id="|BE| TÉLÉ BRUXELLES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/BX1_logo.svg/langfr-300px-BX1_logo.svg.png" group-title="Général",|BE| TÉLÉ BRUXELLES
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1 tvg-id="|BE| NO TÉLÉ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Not%C3%A9l%C3%A9_logo.jpg/330px-Not%C3%A9l%C3%A9_logo.jpg" group-title="Général",|BE| NO TÉLÉ
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/master.m3u8
+#EXTINF:-1 tvg-id="|BE| LA TÉLÉ" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_La_Tele_Vaud_Fribourg.svg/langfr-300px-Logo_La_Tele_Vaud_Fribourg.svg.png" group-title="Général",|BE| LA TÉLÉ
+https://edge14.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
+#EXTINF:-1 tvg-id="|BE| CANAL ZOOM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_Zoom_logo.png/225px-Canal_Zoom_logo.png" group-title="Général",|BE| CANAL ZOOM
+https://tvlocales-live.freecaster.com/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8
+#EXTINF:-1 tvg-id="|BE| ANTENNE CENTRE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/ACTV.png" group-title="Général",|BE| ANTENNE CENTRE
+https://tvlocales-live.freecaster.com/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f.isml/master.m3u8
+#EXTINF:-1 tvg-id="|BE| VEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/ACTV.png" group-title="Général",|BE| VEDIA
+https://tvlocales-live.freecaster.com/95d2f480-3c9f-48ba-ba4e-af64b58431ef/95d2f480-3c9f-48ba-ba4e-af64b58431ef.isml/master.m3u8
 #EXTINF:-1 tvg-id="|FR| SONY ONE ACTION HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/330px-Sony_Movies_Logo.svg.png" group-title="Général",|FR| SONY ONE ACTION HITS
 https://linear-817.frequency.stream/mt/studio/817/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="|FR| SONY ONE FAVORIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/330px-Sony_Movies_Logo.svg.png" group-title="Général",|FR| SONY ONE FAVORIS
