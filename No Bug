@@ -66,9 +66,14 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion
 https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n239v7ne7hack/index.m3u8
 #EXTINF:-1 tvg-id="|FR| L'ÉSPRIT SORCIER TV" tvg-logo="https://iramis.cea.fr/Images/News/9016/Esprit-Sorcier-TV.jpg" group-title="Général",|FR| L'ÉSPRIT SORCIER TV
 https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
-
-
-
+#EXTINF:-1 tvg-id="|FR| SQOOL TV" tvg-logo="https://www.sqooltv.com/app/themes/sqool-tv/assets/img/SQOOLTV_LOGO.png" group-title="Général",|FR| SQOOL TV
+https://new.cache-stream.workers.dev/stream/UCaEqMbRYYOmI3WrALMhxuIg/live.m3u8
+#EXTINF:-1 tvg-id="|FR| GULLI" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/GULLI.png" group-title="Général",|FR| GULLI
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
+#EXTINF:-1 tvg-id="|FR| GONG" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e7/Gong_%28cha%C3%AEne_de_t%C3%A9l%C3%A9vision%29_Logo.png/270px-Gong_%28cha%C3%AEne_de_t%C3%A9l%C3%A9vision%29_Logo.png" group-title="Général",|FR| GONG
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
+#EXTINF:-1 tvg-id="|FR| TECH&CO" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/83/Tech_%26_Co.svg" group-title="Général",|FR| TECH&CO
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
 
 
 
