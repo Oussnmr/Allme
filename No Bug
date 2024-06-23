@@ -4,7 +4,7 @@
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="|FR| CNEWS" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/CNEWS.png" group-title="Général",|FR| CNEWS
 https://hls-m010-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
-#EXTINF:-1 tvg-id="|FR| LE MÉDIA TV" tvg-logo="https://.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/" group-title="Général",|FR| LE MÉDIA TV
+#EXTINF:-1 tvg-id="|FR| LE MÉDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/Logo_Le_M%C3%A9dia.png/195px-Logo_Le_M%C3%A9dia.png" group-title="Général",|FR| LE MÉDIA TV
 https://new.cache-stream.workers.dev/stream/UCT67YOMntJxfRnO_9bXDpvw/live.m3u8
 #EXTINF:-1 tvg-id="|FR| EURONEWS" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/EURONEWS.png" group-title="Général",|FR| EURONEWS
 https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
@@ -26,8 +26,12 @@ https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u
 https://static.lefigaro.fr/secom/tnt.m3u8
 #EXTINF:-1 tvg-id="|FR| CGTN FRANÇAIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CGTNFRANCAIS.png" group-title="Général",|FR| CGTN FRANÇAIS
 http://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-
-
+#EXTINF:-1 tvg-id="|FR| LN24 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Logo_LN24.svg/langfr-225px-Logo_LN24.svg.png" group-title="Général",|FR| LN24 
+https://live-ln24.digiteka.com/1911668011/index.m3u8
+#EXTINF:-1 tvg-id="|FR| BFM BUSINESS " tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/BFMBUSSINESS.png" group-title="Général",|FR| BFM BUSINESS 
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="|FR| LN24 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Logo_LN24.svg/langfr-225px-Logo_LN24.svg.png" group-title="Général",|FR| LN24 
+https://live-ln24.digiteka.com/1911668011/index.m3u8
 
 
 
