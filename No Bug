@@ -22,8 +22,10 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?star
 https://dvvyqyxwlc4tn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n5yqxqrvnujl7/index.m3u8
 #EXTINF:-1 tvg-id="|FR| 20 MINUTES " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/20_Minutes_logo.svg/langfr-240px-20_Minutes_logo.svg.png" group-title="Général",|FR| 20 MINUTES 
 https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
-
-
+#EXTINF:-1 tvg-id="|FR| LE FIGARO IDF " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Le_Figaro_TV_IDF_%282023%29.png/375px-Le_Figaro_TV_IDF_%282023%29.png" group-title="Général",|FR| LE FIGARO IDF
+https://static.lefigaro.fr/secom/tnt.m3u8
+#EXTINF:-1 tvg-id="|FR| CGTN FRANÇAIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CGTNFRANCAIS.png" group-title="Général",|FR| CGTN FRANÇAIS
+http://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 
 
 
