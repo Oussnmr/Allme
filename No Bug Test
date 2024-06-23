@@ -14,7 +14,7 @@ https://0b0a5371d15f48128cf69b029230eac6.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="|FR| NRJ 12 " tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/NRJ12.png" group-title="Général",|FR| NRJ 12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
-#EXTINF:-1 tvg-id="|Général| TF1 " tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/TF1.png" group-title="Général",|FR| TF1 
+#EXTINF:-1 tvg-id="|Général| TF1 " tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/TF1.png" group-title="Général",|Général| TF1 
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
 #EXTINF:-1 tvg-id="|FR| MAISON & TRAVAUX" tvg-logo="https://www.francetvpub.fr/wp-content/uploads/2022/01/maisontravauxtv-300x150.png" group-title="Général",|FR| MAISON & TRAVAUX
 https://d387lnkgycbwl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sdi2aweg8u1y4/761cde02-1df4-4a1a-ad50-7033ede188ef/2.m3u8
@@ -34,7 +34,7 @@ https://streaming01.divercom.be/notele_live/_definst_/direct.stream/master.m3u8
 #EXTINF:-1 tvg-id="|BE| LA TÉLÉ" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_La_Tele_Vaud_Fribourg.svg/langfr-300px-Logo_La_Tele_Vaud_Fribourg.svg.png" group-title="Général",|BE| LA TÉLÉ
 https://edge14.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
 
-#EXTINF:-1 tvg-id="|News| BFM TV" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/BFMTV.png" group-title="News",|FR| BFM TV
+#EXTINF:-1 tvg-id="|News| BFM TV" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/BFMTV.png" group-title="News",|News| BFM TV
 https://d133u1kwyeqhav.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cfh0ys5588w7f/index.m3u8
 #EXTINF:-1 tvg-id="|FR| LE MÉDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/Logo_Le_M%C3%A9dia.png/195px-Logo_Le_M%C3%A9dia.png" group-title="News",|FR| LE MÉDIA TV
 https://livestream.zazerconer.workers.dev/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
@@ -53,9 +53,37 @@ https://static.lefigaro.fr/secom/tnt.m3u8
 #EXTINF:-1 tvg-id="|FR| RMC TALK INFO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_RMC_2002.svg/langfr-255px-Logo_RMC_2002.svg.png" group-title="News",|FR| RMC TALK INFO
 https://dvvyqyxwlc4tn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n5yqxqrvnujl7/index.m3u8
 
+
+#EXTINF:-1 tvg-id="|AR| AL JAZEERA " tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/MOROCCO/arryadia.png" group-title="Arabe",|AR| AL JAZEERA
+http://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-id="|AR| AL JAZEERA MUBASHER" tvg-logo="https://i.ibb.co/MGW5Vv9/aljaz.png" group-title="Arabe",|AR| AL JAZEERA MUBASHER
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1 tvg-id="|AR| AL ARABIYA " tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/MOROCCO/alrabiaa-iraq-1.png" group-title="Arabe",|AR| AL ARABIYA
+https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
+#EXTINF:-1 tvg-id="|AR| BBC NEWS ARABIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NEWS/bbcnewsarabic.png" group-title="Arabe",|AR| BBC NEWS ARABIA
+https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/mobile_wifi_main_sd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="|AR| SALAM" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUUQET-LEBANON/MTVLEBANON.png" group-title="Arabe",|AR| SALAM
+https://b01c02nl.mediatriple.net/videoonlylive/mtiwaxdzdfggbnlive/broadcast_5d1b0969c3188.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="|AR| ASHARQ DOCS" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-ARABIC/ELSHARQ.png" group-title="Arabe",|AR| ASHARQ DOCS
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="|FR| CGTN ARABIC" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CGTNFRANCAIS.png" group-title="Général",|FR| CGTN ARABIC
+https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+#EXTINF:-1 tvg-id="|FR| FRANCE 24" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/FRANCE24.png" group-title="News",|FR| FRANCE 24
+https://new.cache-stream.workers.dev/stream/UCdTyuXgmJkG_O8_75eqej-w/live.m3u8
+
+#EXTINF:-1 tvg-id="|AR| IQRAA" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ISLAMIC/Iqraa_logo.png" group-title="Arabe",|AR| IQRAA
+https://iqraa-live.ercdn.net/iqraa/iqraa.m3u8
+#EXTINF:-1 tvg-id="|AR| BAHRAIN QURAN" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ISLAMIC/quran.png" group-title="Arabe",|AR| BAHRAIN QURAN
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+#EXTINF:-1 tvg-id="|AR| AL SHALLAL" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ISLAMIC/quran.png" group-title="Arabe",|AR| AL SHALLAL
+https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="|AR| QURAN KAREEM TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ISLAMIC/quran.png" group-title="Arabe",|AR| QURAN KAREEM TV
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+
+
 #EXTINF:-1 tvg-id="|FR| TRACE SPORTS " tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/TRACEURBAN.png" group-title="Sport",|FR| TRACE SPORTS
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="|Sport| SPORT EN FRANCE " tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/SPORTENFRANCE.png" group-title="Sport",|FR| SPORT EN FRANCE
+#EXTINF:-1 tvg-id="|Sport| SPORT EN FRANCE " tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/SPORTENFRANCE.png" group-title="Sport",|Sport| SPORT EN FRANCE
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 #EXTINF:-1 tvg-id="|FR| L'ÉQUIPE LIVE 1 " tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/lequipe.png" group-title="Sport",|FR| L'ÉQUIPE LIVE 1
 https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
@@ -73,7 +101,7 @@ https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="|FR| GULLI" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/GULLI.png" group-title="Anime",|FR| GULLI
 https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
 
-#EXTINF:-1 tvg-id="|Film| SONY ONE ACTION HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/330px-Sony_Movies_Logo.svg.png" group-title="Film",|FR| SONY ONE ACTION HITS
+#EXTINF:-1 tvg-id="|Film| SONY ONE ACTION HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/330px-Sony_Movies_Logo.svg.png" group-title="Film",|Film| SONY ONE ACTION HITS
 https://linear-817.frequency.stream/mt/studio/817/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="|FR| SONY ONE FAVORIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/330px-Sony_Movies_Logo.svg.png" group-title="Film",|FR| SONY ONE FAVORIS
 https://linear-820.frequency.stream/mt/studio/820/hls/master/playlist.m3u8
@@ -85,8 +113,12 @@ https://linear-818.frequency.stream/mt/studio/818/hls/master/playlist.m3u8
 https://linear-821.frequency.stream/mt/studio/821/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="|FR| SONY ONE BLACKLIST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/330px-Sony_Movies_Logo.svg.png" group-title="Film",|FR| SONY ONE BLACKLIST
 https://linear-822.frequency.stream/mt/studio/822/hls/master/playlist.m3u8
-
-
+#EXTINF:-1 tvg-id="|FR| MBC MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/MOROCCO/mbc5.png" group-title="Film",|FR| MBC MOVIES
+https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
+#EXTINF:-1 tvg-id="|FR| MBC MOVIES ACTION" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/MOROCCO/mbc5.png" group-title="Film",|FR| MBC MOVIES ACTION
+https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+#EXTINF:-1 tvg-id="|FR| MBC MOVIES THRILLER" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/MOROCCO/mbc5.png" group-title="Film",|FR| MBC MOVIES THRILLER
+https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 
 
 
