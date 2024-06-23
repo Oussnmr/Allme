@@ -43,7 +43,7 @@ https://edge14.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
 https://tvlocales-live.freecaster.com/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8
 #EXTINF:-1 tvg-id="|BE| ANTENNE CENTRE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/ACTV.png" group-title="Général",|BE| ANTENNE CENTRE
 https://tvlocales-live.freecaster.com/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f.isml/master.m3u8
-#EXTINF:-1 tvg-id="|BE| VEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/ACTV.png" group-title="Général",|BE| VEDIA
+#EXTINF:-1 tvg-id="|BE| VEDIA" tvg-logo="https://www.mediasdeproximite.be/wp-content/uploads/2020/02/VEDIA_RMP_LOGO.png" group-title="Général",|BE| VEDIA
 https://tvlocales-live.freecaster.com/95d2f480-3c9f-48ba-ba4e-af64b58431ef/95d2f480-3c9f-48ba-ba4e-af64b58431ef.isml/master.m3u8
 
 #EXTINF:-1 tvg-id="|FR| BFM TV" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/BFMTV.png" group-title="News",|FR| BFM TV
