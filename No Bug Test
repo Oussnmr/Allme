@@ -18,7 +18,6 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
 http://gratuittv.free.fr/Files/w9/live/playlist.m3u8
 #EXTINF:-1 tvg-id="|FR| M6 FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/M6.png" group-title="Général",|FR| M6 FHD
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/infos/barkers/tp6.m3u8
-
 #EXTINF:-1 tvg-id="|FR| NRJ 12 " tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/NRJ12.png" group-title="Général",|FR| NRJ 12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 #EXTINF:-1 tvg-id="|FR| MAISON & TRAVAUX" tvg-logo="https://www.francetvpub.fr/wp-content/uploads/2022/01/maisontravauxtv-300x150.png" group-title="Général",|FR| MAISON & TRAVAUX
