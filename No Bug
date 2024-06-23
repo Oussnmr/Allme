@@ -1,10 +1,10 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="|FR| RMC STORY" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/RMCSTORY.png" group-title="Docu",|FR| RMC STORY
-https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
 #EXTINF:-1 tvg-id="|FR| RMC DÉCOUVERTE" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/RMCDECOUVERTE.png" group-title="Docu",|FR| RMC DÉCOUVERTE
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
+#EXTINF:-1 tvg-id="|FR| RMC STORY" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/RMCSTORY.png" group-title="Docu",|FR| RMC STORY
+https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
 #EXTINF:-1 tvg-id="|FR| L'ÉSPRIT SORCIER TV" tvg-logo="https://iramis.cea.fr/Images/News/9016/Esprit-Sorcier-TV.jpg" group-title="Docu",|FR| L'ÉSPRIT SORCIER TV
 https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
 #EXTINF:-1 tvg-id="|FR| SQOOL TV" tvg-logo="https://www.sqooltv.com/app/themes/sqool-tv/assets/img/SQOOLTV_LOGO.png" group-title="Docu",|FR| SQOOL TV
@@ -12,20 +12,20 @@ https://new.cache-stream.workers.dev/stream/UCaEqMbRYYOmI3WrALMhxuIg/live.m3u8
 #EXTINF:-1 tvg-id="|FR| TRAVEL XP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png" group-title="Docu",|FR| TRAVEL XP
 https://0b0a5371d15f48128cf69b029230eac6.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_TravelXP/playlist.m3u8
 
-#EXTINF:-1 tvg-id="|FR| RMC TALK INFO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_RMC_2002.svg/langfr-255px-Logo_RMC_2002.svg.png" group-title="Général",|FR| RMC TALK INFO
-https://dvvyqyxwlc4tn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n5yqxqrvnujl7/index.m3u8
+#EXTINF:-1 tvg-id="|FR| NRJ 12 " tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/NRJ12.png" group-title="Général",|FR| NRJ 12
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
+#EXTINF:-1 tvg-id="|FR| TF1 " tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/TF1.png" group-title="Général",|FR| TF1 
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
+#EXTINF:-1 tvg-id="|FR| MAISON & TRAVAUX" tvg-logo="https://www.francetvpub.fr/wp-content/uploads/2022/01/maisontravauxtv-300x150.png" group-title="Général",|FR| MAISON & TRAVAUX
+https://d387lnkgycbwl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sdi2aweg8u1y4/761cde02-1df4-4a1a-ad50-7033ede188ef/2.m3u8
+#EXTINF:-1 tvg-id="|FR| C8" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/C8.png" group-title="Général",|FR| C8
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/c8.m3u8
 #EXTINF:-1 tvg-id="|FR| CGTN FRANÇAIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CGTNFRANCAIS.png" group-title="Général",|FR| CGTN FRANÇAIS
 http://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTINF:-1 tvg-id="|FR| LN24 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Logo_LN24.svg/langfr-225px-Logo_LN24.svg.png" group-title="Général",|FR| LN24 
 https://live-ln24.digiteka.com/1911668011/index.m3u8
-#EXTINF:-1 tvg-id="|FR| NRJ 12 " tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/NRJ12.png" group-title="Général",|FR| NRJ 12
-https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 #EXTINF:-1 tvg-id="|FR| CHÉRIE 25" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/CHERIE25.png" group-title="Général",|FR| CHÉRIE 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
-#EXTINF:-1 tvg-id="|FR| C8" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/C8.png" group-title="Général",|FR| C8
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/c8.m3u8
-#EXTINF:-1 tvg-id="|FR| MAISON & TRAVAUX" tvg-logo="https://www.francetvpub.fr/wp-content/uploads/2022/01/maisontravauxtv-300x150.png" group-title="Général",|FR| MAISON & TRAVAUX
-https://d387lnkgycbwl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sdi2aweg8u1y4/761cde02-1df4-4a1a-ad50-7033ede188ef/2.m3u8
 #EXTINF:-1 tvg-id="|FR| GONG" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e7/Gong_%28cha%C3%AEne_de_t%C3%A9l%C3%A9vision%29_Logo.png/270px-Gong_%28cha%C3%AEne_de_t%C3%A9l%C3%A9vision%29_Logo.png" group-title="Général",|FR| GONG
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
 
@@ -72,6 +72,8 @@ https://static.lefigaro.fr/secom/tnt.m3u8
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="|FR| BEL RTL" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-BELGIUM/Bel_RTL_logo_2018.png" group-title="News",|FR| BEL RTL
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
+#EXTINF:-1 tvg-id="|FR| RMC TALK INFO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_RMC_2002.svg/langfr-255px-Logo_RMC_2002.svg.png" group-title="News",|FR| RMC TALK INFO
+https://dvvyqyxwlc4tn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n5yqxqrvnujl7/index.m3u8
 
 #EXTINF:-1 tvg-id="|FR| TRACE SPORTS " tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/TRACEURBAN.png" group-title="Sport",|FR| TRACE SPORTS
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
