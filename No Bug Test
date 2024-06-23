@@ -12,10 +12,15 @@ https://new.cache-stream.workers.dev/stream/UCaEqMbRYYOmI3WrALMhxuIg/live.m3u8
 #EXTINF:-1 tvg-id="|FR| TRAVEL XP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png" group-title="Docu",|FR| TRAVEL XP
 https://0b0a5371d15f48128cf69b029230eac6.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_TravelXP/playlist.m3u8
 
-#EXTINF:-1 tvg-id="|FR| NRJ 12 " tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/NRJ12.png" group-title="Général",|FR| NRJ 12
-https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 #EXTINF:-1 tvg-id="|Général| TF1 " tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/TF1.png" group-title="Général",|Général| TF1 
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
+#EXTINF:-1 tvg-id="|FR| M6 FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/M6.png" group-title="Général",|FR| M6 FHD
+http://gratuittv.free.fr/Files/w9/live/playlist.m3u8
+#EXTINF:-1 tvg-id="|FR| M6 FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/M6.png" group-title="Général",|FR| M6 FHD
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/infos/barkers/tp6.m3u8
+
+#EXTINF:-1 tvg-id="|FR| NRJ 12 " tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/NRJ12.png" group-title="Général",|FR| NRJ 12
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 #EXTINF:-1 tvg-id="|FR| MAISON & TRAVAUX" tvg-logo="https://www.francetvpub.fr/wp-content/uploads/2022/01/maisontravauxtv-300x150.png" group-title="Général",|FR| MAISON & TRAVAUX
 https://d387lnkgycbwl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sdi2aweg8u1y4/761cde02-1df4-4a1a-ad50-7033ede188ef/2.m3u8
 #EXTINF:-1 tvg-id="|FR| CGTN FRANÇAIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CGTNFRANCAIS.png" group-title="Général",|FR| CGTN FRANÇAIS
@@ -71,13 +76,14 @@ https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 #EXTINF:-1 tvg-id="|FR| FRANCE 24" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/FRANCE24.png" group-title="Arabe",|FR| FRANCE 24
 https://new.cache-stream.workers.dev/stream/UCdTyuXgmJkG_O8_75eqej-w/live.m3u8
 
-#EXTINF:-1 tvg-id="|AR| IQRAA" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ISLAMIC/Iqraa_logo.png" group-title="Arabe",|Quran| IQRAA
-https://iqraa-live.ercdn.net/iqraa/iqraa.m3u8
-#EXTINF:-1 tvg-id="|AR| BAHRAIN QURAN" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ISLAMIC/quran.png" group-title="Arabe",|AR| BAHRAIN QURAN
+
+#EXTINF:-1 tvg-id="|AR| BAHRAIN QURAN" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ISLAMIC/quran.png" group-title="Quran",|Quran| BAHRAIN QURAN
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
-#EXTINF:-1 tvg-id="|AR| AL SHALLAL" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ISLAMIC/quran.png" group-title="Arabe",|AR| AL SHALLAL
+#EXTINF:-1 tvg-id="|AR| AL SHALLAL" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ISLAMIC/quran.png" group-title="Quran",|AR| AL SHALLAL
 https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="|AR| QURAN KAREEM TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ISLAMIC/quran.png" group-title="Arabe",|AR| QURAN KAREEM TV
+#EXTINF:-1 tvg-id="|AR| IQRAA" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ISLAMIC/Iqraa_logo.png" group-title="Quran",|AR| IQRAA
+https://iqraa-live.ercdn.net/iqraa/iqraa.m3u8
+#EXTINF:-1 tvg-id="|AR| QURAN KAREEM TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ISLAMIC/quran.png" group-title="Quran",|AR| QURAN KAREEM TV
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 
 
