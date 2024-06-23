@@ -1,20 +1,27 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="BFM TV" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/BFMTV.png" group-title="Général",|FR| BFM TV
+#EXTINF:-1 tvg-id="|FR| BFM TV" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/BFMTV.png" group-title="Général",|FR| BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-id="CNEWS" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/CNEWS.png" group-title="Général",|FR| CNEWS
+#EXTINF:-1 tvg-id="|FR| CNEWS" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/CNEWS.png" group-title="Général",|FR| CNEWS
 https://hls-m010-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
-#EXTINF:-1 tvg-id="LE MÉDIA TV" tvg-logo="https://.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/" group-title="Général",|FR| LE MÉDIA TV
+#EXTINF:-1 tvg-id="|FR| LE MÉDIA TV" tvg-logo="https://.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/" group-title="Général",|FR| LE MÉDIA TV
 https://new.cache-stream.workers.dev/stream/UCT67YOMntJxfRnO_9bXDpvw/live.m3u8
-#EXTINF:-1 tvg-id="EURONEWS" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/EURONEWS.png" group-title="Général",|FR| EURONEWS
+#EXTINF:-1 tvg-id="|FR| EURONEWS" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/EURONEWS.png" group-title="Général",|FR| EURONEWS
 https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TV5MONDE" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/TV5MONDE.png" group-title="Général",|FR| TV5MONDE
+#EXTINF:-1 tvg-id="|FR| TV5MONDE" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/TV5MONDE.png" group-title="Général",|FR| TV5MONDE
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
-
-
-
-
-
+#EXTINF:-1 tvg-id="|FR| FRANCE 24" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/FRANCE24.png" group-title="Général",|FR| FRANCE 24
+https://new.cache-stream.workers.dev/channel/UCCCPCZNChQdGa9EkATeye4g/live.m3u8
+#EXTINF:-1 tvg-id="|FR| LCP" tvg-logo="https://cms-assets.tutsplus.com/uploads/users/30/posts/107183/preview_image/lcp.png" group-title="Général",|FR| LCP
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/LCP.m3u8
+#EXTINF:-1 tvg-id="|FR| PUBLIC-SÉNAT" tvg-logo="https://www.drupal.org/files/publicsenat.jpg" group-title="Général",|FR| PUBLIC-SÉNAT
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat.m3u8
+#EXTINF:-1 tvg-id="|FR| BFM GRAND REPORTAGES" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/BFMPARIS.png" group-title="Général",|FR| BFM GRAND REPORTAGES
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="|FR| RMC TALK INFO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_RMC_2002.svg/langfr-255px-Logo_RMC_2002.svg.png" group-title="Général",|FR| RMC TALK INFO
+https://dvvyqyxwlc4tn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n5yqxqrvnujl7/index.m3u8
+#EXTINF:-1 tvg-id="|FR| 20 MINUTES " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/20_Minutes_logo.svg/langfr-240px-20_Minutes_logo.svg.png" group-title="Général",|FR| 20 MINUTES 
+https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
 
 
 
