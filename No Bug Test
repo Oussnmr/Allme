@@ -54,7 +54,7 @@ https://static.lefigaro.fr/secom/tnt.m3u8
 https://dvvyqyxwlc4tn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n5yqxqrvnujl7/index.m3u8
 
 
-#EXTINF:-1 tvg-id="|AR| AL JAZEERA " tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/MOROCCO/arryadia.png" group-title="Arabe",|AR| AL JAZEERA
+#EXTINF:-1 tvg-id="|AR| AL JAZEERA " tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/MOROCCO/arryadia.png" group-title="Arabe",|Arabe| AL JAZEERA
 http://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-id="|AR| AL JAZEERA MUBASHER" tvg-logo="https://i.ibb.co/MGW5Vv9/aljaz.png" group-title="Arabe",|AR| AL JAZEERA MUBASHER
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
@@ -66,12 +66,12 @@ https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_ara
 https://b01c02nl.mediatriple.net/videoonlylive/mtiwaxdzdfggbnlive/broadcast_5d1b0969c3188.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="|AR| ASHARQ DOCS" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-ARABIC/ELSHARQ.png" group-title="Arabe",|AR| ASHARQ DOCS
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="|FR| CGTN ARABIC" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CGTNFRANCAIS.png" group-title="Général",|FR| CGTN ARABIC
+#EXTINF:-1 tvg-id="|FR| CGTN ARABIC" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CGTNFRANCAIS.png" group-title="Arabe",|FR| CGTN ARABIC
 https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
-#EXTINF:-1 tvg-id="|FR| FRANCE 24" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/FRANCE24.png" group-title="News",|FR| FRANCE 24
+#EXTINF:-1 tvg-id="|FR| FRANCE 24" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/FRANCE24.png" group-title="Arabe",|FR| FRANCE 24
 https://new.cache-stream.workers.dev/stream/UCdTyuXgmJkG_O8_75eqej-w/live.m3u8
 
-#EXTINF:-1 tvg-id="|AR| IQRAA" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ISLAMIC/Iqraa_logo.png" group-title="Arabe",|AR| IQRAA
+#EXTINF:-1 tvg-id="|AR| IQRAA" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ISLAMIC/Iqraa_logo.png" group-title="Arabe",|Quran| IQRAA
 https://iqraa-live.ercdn.net/iqraa/iqraa.m3u8
 #EXTINF:-1 tvg-id="|AR| BAHRAIN QURAN" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ISLAMIC/quran.png" group-title="Arabe",|AR| BAHRAIN QURAN
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
