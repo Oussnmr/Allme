@@ -2,10 +2,14 @@
 
 #EXTINF:-1 tvg-id="BFM TV" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/BFMTV.png" group-title="Général",|FR| BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
-
-
-
-
+#EXTINF:-1 tvg-id="CNEWS" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/CNEWS.png" group-title="Général",|FR| CNEWS
+https://hls-m010-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
+#EXTINF:-1 tvg-id="LE MÉDIA TV" tvg-logo="https://.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/" group-title="Général",|FR| LE MÉDIA TV
+https://new.cache-stream.workers.dev/stream/UCT67YOMntJxfRnO_9bXDpvw/live.m3u8
+#EXTINF:-1 tvg-id="EURONEWS" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/EURONEWS.png" group-title="Général",|FR| EURONEWS
+https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TV5MONDE" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/TV5MONDE.png" group-title="Général",|FR| TV5MONDE
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 
 
 
