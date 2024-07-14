@@ -5,10 +5,16 @@
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
 #EXTINF:-1 tvg-id="|FR| RMC STORY" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/RMCSTORY.png" group-title="Docu",|FR| RMC STORY
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
+#EXTINF:-1 tvg-id="|FR| Echappées Belles Doc" tvg-logo="htt" group-title="Docu",|FR| Echappées Belles Doc
+https://rakutenaa-botravail-echappeesbelles-rakuten-ccn98.amagi.tv/playlist/rakutenAA-botravail-echappeesbelles-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="|FR| L'ÉSPRIT SORCIER TV" tvg-logo="https://iramis.cea.fr/Images/News/9016/Esprit-Sorcier-TV.jpg" group-title="Docu",|FR| L'ÉSPRIT SORCIER TV
 https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
-#EXTINF:-1 tvg-id="|FR| C'EST PAS SORCIER" tvg-logo="https://iramis.cea.fr/Images/News/9016/Esprit-Sorcier-TV.jpg" group-title="Docu",|FR| C'EST PAS SORCIER
+#EXTINF:-1 tvg-id="|FR| C'EST PAS SORCIER" tvg-logo="https://iramis.cea.fr/Images/News/9016/" group-title="Docu",|FR| C'EST PAS SORCIER
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63b579961bdba100071214cb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06ff23-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=410cc83b-4396-41a0-b726-70e8f1e3fea4
+#EXTINF:-1 tvg-id="|FR| Enquête de choc" tvg-logo="https://iramis.cea.fr/Images/News/9016/Esprit-Sorcig" group-title="Docu",|FR| Enquête de choc
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63921a1bf76e7d0007c998a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06d816-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7931c2bb-1392-4543-8cc4-684661cfd449
+#EXTINF:-1 tvg-id="|FR| L'Effet papillion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Effet_Papillon_logo_2022.jpg" group-title="Docu",|FR| L'Effet papillion
+https://amg02162-newenconnect-amg02162c1-rakuten-us-1983.playouts.now.amagi.tv/playlist/amg02162-newenconnect-leffetpapillon-rakutenus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="|FR| SQOOL TV" tvg-logo="https://www.sqooltv.com/app/themes/sqool-tv/assets/img/SQOOLTV_LOGO.png" group-title="Docu",|FR| SQOOL TV
 https://new.cache-stream.workers.dev/stream/UCaEqMbRYYOmI3WrALMhxuIg/live.m3u8
@@ -27,6 +33,9 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/infos/b
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 #EXTINF:-1 tvg-id="|FR| MAISON & TRAVAUX" tvg-logo="https://www.francetvpub.fr/wp-content/uploads/2022/01/maisontravauxtv-300x150.png" group-title="Général",|FR| MAISON & TRAVAUX
 https://d387lnkgycbwl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sdi2aweg8u1y4/761cde02-1df4-4a1a-ad50-7033ede188ef/2.m3u8
+#EXTINF:-1 tvg-id="|FR| MTV Classics" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/MTV-logo-2021.png/1200px-MTV-logo-2021.png" group-title="Général",|FR| MTV Classics
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f92b56a367e170007cd43f4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e057887-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=26866fb9-ab48-465b-85a8-8314ba7340fa
+
 #EXTINF:-1 tvg-id="|FR| CGTN FRANÇAIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CGTNFRANCAIS.png" group-title="Général",|FR| CGTN FRANÇAIS
 http://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTINF:-1 tvg-id="|FR| LN24 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Logo_LN24.svg/langfr-225px-Logo_LN24.svg.png" group-title="Général",|FR| LN24 
@@ -101,8 +110,6 @@ https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
 #EXTINF:-1 tvg-id="|FR| L'ÉQUIPE LIVE 2 " tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/lequipe.png" group-title="Sport",|FR| L'ÉQUIPE LIVE 2
 https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8
-#EXTINF:-1 tvg-id="|FR| L'ÉQUIPE LIVE 2 " tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/lequipe.png" group-title="Sport",|FR| L'ÉQUIPE LIVE 2
-https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8
 #EXTINF:-1 tvg-id="|FR| L'ÉQUIPE LIVE FOOT " tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/lequipe.png" group-title="Sport",|FR| L'ÉQUIPE LIVE FOOT
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-foot.m3u8
 #EXTINF:-1 tvg-id="|FR| L'ÉQUIPE TV" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/lequipe.png" group-title="Sport",|FR| L'ÉQUIPE TV
@@ -116,6 +123,8 @@ https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2h
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60b4c17a81e29300071d3a39/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05edb7-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=640a4092-5016-4d01-bcbf-d66e4f7aa21d
 #EXTINF:-1 tvg-id="|FR| Bob l'éponge" tvg-logo="https://ih1.redbubble.net/image.1686556447.5838/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" group-title="Anime",|FR| Bob l'éponge 
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ffc8c345822750007e167de/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e059f93-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=eb72cd85-f8e2-414a-99d0-c0cd8a98518d
+#EXTINF:-1 tvg-id="|FR| Detective Conan" tvg-logo="" group-title="Anime",|FR| Detective Conan
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f3e8ad2a8e8000077b013d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06b107-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=165463a5-b9d3-452a-84d9-0cf94452227f
 
 #EXTINF:-1 tvg-id="|Film| SONY ONE ACTION HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/330px-Sony_Movies_Logo.svg.png" group-title="Film",|Film| SONY ONE ACTION HITS
 https://linear-817.frequency.stream/mt/studio/817/hls/master/playlist.m3u8
