@@ -79,6 +79,12 @@ https://static.lefigaro.fr/secom/tnt.m3u8
 #EXTINF:-1 tvg-id="|FR| RMC TALK INFO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_RMC_2002.svg/langfr-255px-Logo_RMC_2002.svg.png" group-title="News",|FR| RMC TALK INFO
 https://dvvyqyxwlc4tn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n5yqxqrvnujl7/index.m3u8
 
+#EXTINF:-1 tvg-id="┃MA┃  2M MAROC HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/MOROCCO/2m-tvmorocco.png" group-title="Arabe",┃MA┃  2M MAROC HD
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+#EXTINF:-1 tvg-id="┃MA┃  AL AOULA INTER HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/MOROCCO/ALAOULA.png" group-title="Arabe",┃MA┃  AL AOULA INTER HD
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
+#EXTINF:-1 tvg-id="┃MA┃  ARRABIAA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/MOROCCO/alrabiaa-iraq-1.png" group-title="Arabe",┃MA┃  ARRABIAA HD
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="|AR| AL JAZEERA " tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/MOROCCO/arryadia.png" group-title="Arabe",|Arabe| AL JAZEERA
 http://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-id="|AR| AL JAZEERA MUBASHER" tvg-logo="https://i.ibb.co/MGW5Vv9/aljaz.png" group-title="Arabe",|AR| AL JAZEERA MUBASHER
