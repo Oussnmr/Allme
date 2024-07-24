@@ -30,8 +30,7 @@ https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/p
 #EXTINF:-1 tvg-id="|FR| TRAVEL XP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png" group-title="Docu",|FR| TRAVEL XP
 https://0b0a5371d15f48128cf69b029230eac6.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_TravelXP/playlist.m3u8
 
-#EXTINF:-1 tvg-id="|FR| RMC TALK INFO" tvg-logo="https://i.ibb.co/k4Bs0Cj/rmcti.jpg" group-title="Général",|FR| RMC TALK INFO
-https://dvvyqyxwlc4tn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n5yqxqrvnujl7/index.m3u8
+
 #EXTINF:-1 tvg-id="|Général| TF1 " tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/TF1.png" group-title="Général",|Général| TF1 
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
 #EXTINF:-1 tvg-id="|FR| W9 FHD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/W9.png" group-title="Général",|FR| W9 FHD
@@ -62,6 +61,8 @@ https://streaming01.divercom.be/notele_live/_definst_/direct.stream/master.m3u8
 #EXTINF:-1 tvg-id="|BE| LA TÉLÉ" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_La_Tele_Vaud_Fribourg.svg/langfr-300px-Logo_La_Tele_Vaud_Fribourg.svg.png" group-title="Général",|BE| LA TÉLÉ
 https://edge14.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
 
+#EXTINF:-1 tvg-id="|FR| RMC TALK INFO" tvg-logo="https://i.ibb.co/k4Bs0Cj/rmcti.jpg" group-title="Général",|FR| RMC TALK INFO
+https://dvvyqyxwlc4tn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n5yqxqrvnujl7/index.m3u8
 #EXTINF:-1 tvg-id="|News| BFM TV" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/BFMTV.png" group-title="News",|News| BFM TV
 https://d133u1kwyeqhav.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cfh0ys5588w7f/index.m3u8
 #EXTINF:-1 tvg-id="|FR| LE MÉDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/Logo_Le_M%C3%A9dia.png/195px-Logo_Le_M%C3%A9dia.png" group-title="News",|FR| LE MÉDIA TV
