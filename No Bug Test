@@ -1,10 +1,11 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="|FR| RMC DÉCOUVERTE" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/RMCDECOUVERTE.png" group-title="Docu",|DOCU| RMC DÉCOUVERTE
-https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
+
 #EXTINF:-1 tvg-id="|FR| RMC STORY" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/RMCSTORY.png" group-title="Docu",|FR| RMC STORY
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
+#EXTINF:-1 tvg-id="|FR| RMC DÉCOUVERTE" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEFHD/RMCDECOUVERTE.png" group-title="Docu",|DOCU| RMC DÉCOUVERTE
+https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
 #EXTINF:-1 tvg-id="|FR| Echappées Belles Doc" tvg-logo="htt" group-title="Docu",|FR| Echappées Belles Doc
 https://rakutenaa-botravail-echappeesbelles-rakuten-ccn98.amagi.tv/playlist/rakutenAA-botravail-echappeesbelles-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="|FR| L'ÉSPRIT SORCIER TV" tvg-logo="https://iramis.cea.fr/Images/News/9016/Esprit-Sorcier-TV.jpg" group-title="Docu",|FR| L'ÉSPRIT SORCIER TV
