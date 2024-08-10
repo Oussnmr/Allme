@@ -177,9 +177,4 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 #EXTINF:-1 tvg-id="|FR| RAKUTEN FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg" group-title="Anime",|FR| RAKUTEN FAMILY
 https://rakuten-family-16-be.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="|AR| MBC MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/MOROCCO/mbc5.png" group-title="Film",|Film| MBC MOVIES
-https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
-#EXTINF:-1 tvg-id="|AR| MBC MOVIES ACTION" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/MOROCCO/mbc5.png" group-title="Film",|Film| MBC MOVIES ACTION
-https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
-#EXTINF:-1 tvg-id="|AR| MBC MOVIES THRILLER" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/MOROCCO/mbc5.png" group-title="Film",|Film| MBC MOVIES THRILLER
-https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+
