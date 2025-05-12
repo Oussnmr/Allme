@@ -120,7 +120,7 @@ http://ott-protv.com:8080/live/4663893855151056/4663893855151056/26363.ts
 
 
 #EXTINF:-1 tvg-id="┃MA┃  2M MAROC HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/MOROCCO/2m-tvmorocco.png" group-title="Arabe",┃MA┃  2M MAROC HD
-http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/368696.ts
+http://livecdnh2.tvanywhere.ae/hls/2m_maroc/04.m3u8
 #EXTINF:-1 tvg-id="┃MA┃  AFLAM 7 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/MOROCCO/Logo_aflam_tv.png" group-title="Arabe",┃MA┃  AFLAM 7 HD
 http://line.tivi-one.net:80/live/N7DQAK/aVjlt5innL/368690.ts
 #EXTINF:-1 tvg-id="┃MA┃  AL AOULA INTER HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/MOROCCO/ALAOULA.png" group-title="Arabe",┃MA┃  AL AOULA INTER HD
