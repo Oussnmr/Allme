@@ -83,7 +83,7 @@ https://static.lefigaro.fr/secom/tnt.m3u8
 https://dvvyqyxwlc4tn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n5yqxqrvnujl7/index.m3u8
 
 #EXTINF:-1 tvg-id="┃AR┃  2M MAROC HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/MOROCCO/2m-tvmorocco.png" group-title="",┃AR┃  2M MAROC HD
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+http://livecdnh2.tvanywhere.ae/hls/2m_maroc/04.m3u8
 #EXTINF:-1 tvg-id="┃AR┃  ARRABIAA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/MOROCCO/alrabiaa-iraq-1.png" group-title="",┃AR┃  ARRABIAA HD
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="┃AR┃  Al Arabiya Business " tvg-logo="https://i.imgur.com/eEV4r6J.jpeg" group-title="",┃AR┃ Al Arabiya Business 
